@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Love coding and learning new things</h3>
+<h3 align="center">Love coding and learn new stuffs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddieppa&label=Profile%20views&color=0e75b6&style=flat" alt="ddieppa" /> </p>
 
