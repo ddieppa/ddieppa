@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Love coding and learn new stuffs</h3>
+<h3 align="center">Love coding and learn new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddieppa&label=Profile%20views&color=0e75b6&style=flat" alt="ddieppa" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.visualcv.com/ddieppa/](https://www.visualcv.com/ddieppa/)
 
-- ⚡ Fun fact **Love dance and Soccer**
+- ⚡ Fun fact **Love dancing and soccer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
